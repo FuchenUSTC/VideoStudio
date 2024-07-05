@@ -105,7 +105,7 @@ bash script_generation.sh
 Please check [Apache-2.0 license](./LICENSE) for details.
 
 ## Acknowledgements
-The code is built upon [IPAdapter](https://github.com/tencent-ailab/IP-Adapter), [U-2-Net](https://github.com/xuebinqin/U-2-Net) and video generaion pipeline in [Diffusers](https://github.com/huggingface/diffusers) .
+The code is built upon [IPAdapter](https://github.com/tencent-ailab/IP-Adapter), [U-2-Net](https://github.com/xuebinqin/U-2-Net) and video generation pipeline in [Diffusers](https://github.com/huggingface/diffusers) .
 
 ## Citation
 
