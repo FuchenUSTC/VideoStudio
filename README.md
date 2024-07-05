@@ -1,6 +1,6 @@
 # [ECCV 2024] VideoStudio: Generating Consistent-Content and Multi-Scene Videos
 <a target="_blank" href="https://VidStudio.github.io">
-<img src='https://img.shields.io/badge/Project-Page-green' alt="Project page"/>
+<img src='https://img.shields.io/badge/VideoStudio-Project-green' alt="Project page"/>
 </a>
 <a target="_blank" href="https://huggingface.co/FireCRT/VideoStudio/tree/main">
 <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue" alt="Open in HugginFace"/>
