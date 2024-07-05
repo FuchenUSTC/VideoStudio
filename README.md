@@ -85,11 +85,10 @@ Results:
 <tr>
 <tr>
   <td>
-  <img src='./assets/videostudio-vid/rider.png' width=476>
+  <img src='./assets/videostudio-vid/rider.png' width=400>
  </td>
   <td>
-  <video width=476 controls>
-  <source src='./assets/videostudio-vid/rider.mp4' type="video/mp4">
+  <img src='./assets/videostudio-vid/rider.gif' width=400>
  </td>
 <tr>
 </table>
