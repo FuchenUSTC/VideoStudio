@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python infer_videostudio_img.py
